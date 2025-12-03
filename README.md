@@ -41,11 +41,12 @@ Tecnologias utilizadas
 ---------------------------------------------------------------------
 
 Estructura del proyecto.
-Taller ASP.NET Core/
-│
-├── Controllers/        # Controladores MVC
-├── Models/             # Modelos de datos
-├── Views/              # Vistas Razor
-├── wwwroot/            # Recursos estáticos (CSS, JS)
-├── appsettings.json    # Configuración
-└── README.md           # Documentación del proyecto
+
+            Taller ASP.NET Core/
+            │
+            ├── Controllers/        # Controladores MVC
+            ├── Models/             # Modelos de datos
+            ├── Views/              # Vistas Razor
+            ├── wwwroot/            # Recursos estáticos (CSS, JS)
+            ├── appsettings.json    # Configuración
+            └── README.md           # Documentación del proyecto
